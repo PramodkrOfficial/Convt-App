@@ -1,14 +1,14 @@
-# how to run this project 
+# How to run this project 
 
 # Step 1:- copy the github repo url
 
 # Step 2:- open cmd terminal
 
-# Step3:- Git clone repo_url
+# Step3:- git clone repo_url
 
 # Step 5:- open the folder unzip frontend Unzip backend
 
-# Step6:- Go back to main folder.
+# Step6:- go back to main folder.
 
 # Step7:- right click open in terminal
 
